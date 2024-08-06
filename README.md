@@ -1,5 +1,10 @@
 # Vitor Rosa Dev
 
+Hello, my name is Vitor, I am a student of Systems Analysis and Development at Unisinos and passionate about programming.
+In addition to the university course where i accumulate experience in academic projects using Java and Python languages, i also dedicate my time to learning frontend development with JavaScript, CSS and HTML on the teaching platforms Trilha.Info and Danki Code.
+My biggest professional motivations are the feeling of solving problems with my work and the constant contact with learning new technologies.
+If you are looking for an apprentice with market experience in large companies, dedicated and enthusiastic, let's connect and explore how we can collaborate to achieve great results together!
+
 ## Connect with me!
  
 <div>
