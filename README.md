@@ -1,9 +1,6 @@
 # Vitor Rosa Dev
 
-Hello, my name is Vitor, I am a student of Systems Analysis and Development at Unisinos and passionate about programming.
-In addition to the university course where i accumulate experience in academic projects using Java and Python languages, i also dedicate my time to learning frontend development with JavaScript, CSS and HTML on the teaching platforms Trilha.Info and Danki Code.
-My biggest professional motivations are the feeling of solving problems with my work and the constant contact with learning new technologies.
-If you are looking for an apprentice with market experience in large companies, dedicated and enthusiastic, let's connect and explore how we can collaborate to achieve great results together!
+My background includes significant experience in sales and technical support at large corporations. There, I honed my interpersonal skills and problem-solving abilities, always focused on achieving and exceeding results. Self-taught by nature, I'm transitioning into frontend development, where I already work as a freelancer, applying web and mobile frameworks.
 
 ## Connect with me!
  
@@ -19,6 +16,10 @@ If you are looking for an apprentice with market experience in large companies, 
 -  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML <br>
 -  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS <br>
 -  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript <br>
+-  <img align="center" alt="Ts" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> TypeScript <br>
+-  <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"> React <br>
+-  <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"> Angular <br>
+-  <img align="center" alt="Ionic" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"> Ionic <br>
 -  <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> Java <br>
 
 
