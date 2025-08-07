@@ -1,4 +1,4 @@
-# Vitor Rosa Dev
+# Vitor Rosa - Frontend Developer
 
 My background includes significant experience in sales and technical support at large corporations. There, I honed my interpersonal skills and problem-solving abilities, always focused on achieving and exceeding results. Self-taught by nature, I'm transitioning into frontend development, where I already work as a freelancer, applying web and mobile frameworks.
 
