@@ -20,6 +20,7 @@ My background includes significant experience in sales and technical support at 
 -  <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"> React <br>
 -  <img align="center" alt="Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"> Angular <br>
 -  <img align="center" alt="Ionic" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"> Ionic <br>
+-  <img align="center" alt="Ionic" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"> Android Studio <br>
 -  <img align="center" alt="Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> Java <br>
 
 
