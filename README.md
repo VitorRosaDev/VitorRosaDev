@@ -45,13 +45,6 @@ My background includes significant experience in sales and technical support at 
 - Teamwork <br>
 - Studious <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRosaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorRosaDev&layout=compact&langs_count=6&theme=dracula"/>
-    </td>
-  </tr>
-</table>
+## 🏆 Most Used Languages
+
+![My Github Status](https://satoshj-readme-state.vercel.app/api/top-langs?username=VitorRosaDev&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF)
