@@ -46,7 +46,8 @@ My background includes significant experience in sales and technical support at 
 - Studious <br>
 
 <div>
-   <a href="https://github.com/VitorRosaDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRosaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRosaDev&layout=compact&langs_count=6&theme=dracula"/>
+  <a href="https://github.com/VitorRosaDev">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VitorRosaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorRosaDev&layout=compact&langs_count=6&theme=dracula"/>
+  </a>
 </div>
